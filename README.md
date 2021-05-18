@@ -1,3 +1,3 @@
 # Deployment
 
-These are apps that are currently deployed
+Apps that are currently deployed
